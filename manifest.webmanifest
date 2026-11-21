@@ -1,0 +1,15 @@
+{
+  "name": "Count Click - Mobile Arcade Game",
+  "short_name": "Count Click",
+  "description": "A quick three-level arcade game",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101326",
+  "theme_color": "#101326",
+  "icons": [
+    { "src": "./assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
