@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local build artifacts
+android/.gradle/
+android/app/build/
+__pycache__/
+*.py[cod]
